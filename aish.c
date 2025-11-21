@@ -1,4 +1,4 @@
-//write a c program with a functionwith variatic
+//write a c program with a function with variatic
 #include <stdio.h>
 #include <stdarg.h>
 void add (int count,...)

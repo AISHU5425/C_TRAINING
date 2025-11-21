@@ -9,5 +9,4 @@ void main()
     p[3]=125;
     printf("%d",p[0]);
     free(p);
-    return 0;
 }

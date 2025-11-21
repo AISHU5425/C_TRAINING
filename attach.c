@@ -21,7 +21,7 @@ void names (char first[], char last[])
     printf("%s",full);
 }
 void main()
-{   
+{    
     char full[100]="raj";
     char last[100]="kumar";
     names (full,last);

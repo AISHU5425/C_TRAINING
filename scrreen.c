@@ -29,7 +29,7 @@ void main()
     printf("fits in  the screen");
     else
     printf("does not fit in the screen!");
-    char full[100]="raj";
+    char full[100]=" raj ";
     char last[100]="kumar";
     names (full,last);
 }
