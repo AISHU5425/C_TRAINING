@@ -15,6 +15,6 @@ void main()
      int b=89;
      printf("call by value:\n");
      sum_value(a,b);
-     printf("call by value:\n");
+     printf("call by reference:\n");
      sum_ref(&a,&b);
 }
