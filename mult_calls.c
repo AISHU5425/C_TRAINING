@@ -7,7 +7,7 @@ void prod_value(int a, int b, int c)
 }
 void prod_ref(int *a, int *b, int *c)
 {
-    int prod = *a * *b  * *c;
+    int prod = (*a) * (*b)  * (*c);
     printf("%d\n",prod);
 }
 void main()
